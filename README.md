@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Mac-iX and I'm a writer.
-- 👀 I’m interested in using Markdown on Github to edit content and documentation for websites. 
-- 🌱 I’m currently learning how to use Markdown, Github, and a few commands in HTML, Linux, Java etc.
-- 💞️ I’m looking to collaborate on technical writing and content writing objectives with a focus on keyword optimization and client acquisition.  
-- 📫 How to reach me ... https://www.about.me/mac_carter | https://www.linkedin.com/in/mac-carter/ | https://twitter.com/real_MacCarter  
+- 👋 Hi, I’m Mac, a prompt engineer and business owner.
+- 👀 I’m interested in vibe coding for websites. 
+- 🌱 I’m currently learning how to use Github, Vercel, and other tools for deployment.
+- 💞️ I’m looking to collaborate on business initiatives and natural language vibe coding.  
+- 📫 How to reach me ... QualityCreativeNC@gmail.com  
 
 <!---
 Mac-iX/Mac-iX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
